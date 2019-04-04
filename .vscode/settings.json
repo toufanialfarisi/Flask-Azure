@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/toufani/anaconda3/envs/gpu/bin/python",
+    "python.linting.pylintEnabled": true
+}
